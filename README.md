@@ -1,1 +1,3 @@
 # wp_google_mapsjs
+WordPressで店舗等をgoogle map apiで実装したものです  
+現段階だと表示の度にgeocoding apiが叩かれる為使用する際は投稿保存のfookに使用することを推奨
